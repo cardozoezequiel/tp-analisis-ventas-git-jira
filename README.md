@@ -1,2 +1,14 @@
-# tp-analisis-ventas-git-jira
-Analisis Ventas
+# TP Organización Empresarial - Análisis de Ventas
+
+## Integrantes
+- Ezequiel Cardozo
+
+## Escenario
+Análisis de Ventas
+
+## Estructura
+
+- datos/
+- scripts/
+- resultados/
+
